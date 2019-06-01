@@ -9,7 +9,7 @@ import (
 )
 //
 func reLaunch () {
-	cmd := exec.Command("sh", "../depley.sh")
+	cmd := exec.Command("sh", "./depley.sh")
 	err := cmd.Start()
 	if err!= nil {
 		log.Fatal(err)
