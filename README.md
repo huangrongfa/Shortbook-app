@@ -1,2 +1,2 @@
 # Shortbook-app
-react练习小项目
+综合小练习
