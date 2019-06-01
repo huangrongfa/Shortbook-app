@@ -6,7 +6,7 @@ import (
 )
 
 func propxy(w http.ResponseWriter, r *http.Request) {
-    io.WriteString(w, "<h1>欢迎大家进入GO的学习殿堂欢迎大家进入GO的学习殿堂</h1>")
+    io.WriteString(w, "<h1>欢迎大家进入GO的学习殿堂欢迎大家进入GO的学习殿堂111</h1>")
 }
 
 func main()  {
